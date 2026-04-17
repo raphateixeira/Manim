@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/SimulBuck/480p15/partial_movie_files/BuckLento/1185818338_1118969846_3051657772.mp4'
+file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/SimulBuck/480p15/partial_movie_files/BuckLento/624642324_4017445706_3521522151.mp4'
+file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/SimulBuck/480p15/partial_movie_files/BuckLento/624642324_2999129066_385942739.mp4'
+file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/SimulBuck/480p15/partial_movie_files/BuckLento/624642324_344519161_3339742907.mp4'
+file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/SimulBuck/480p15/partial_movie_files/BuckLento/624642324_2749144852_2226672329.mp4'

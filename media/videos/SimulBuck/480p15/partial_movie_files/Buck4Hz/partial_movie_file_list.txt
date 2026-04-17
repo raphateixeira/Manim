@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/SimulBuck/480p15/partial_movie_files/Buck4Hz/1185818338_3143745264_2129387448.mp4'
+file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/SimulBuck/480p15/partial_movie_files/Buck4Hz/624642324_2749144852_3834356899.mp4'
