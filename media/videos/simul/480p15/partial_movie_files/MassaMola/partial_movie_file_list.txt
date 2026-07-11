@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/simul/480p15/partial_movie_files/MassaMola/1185818338_3664498878_2292190815.mp4'
-file 'file:C:/Users/Raphael Teixeira/Documents/GitHubRTx/Manin/media/videos/simul/480p15/partial_movie_files/MassaMola/624642324_812935599_837041413.mp4'

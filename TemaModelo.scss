@@ -1,0 +1,83 @@
+/*-- scss:defaults --*/
+
+// Paleta e tipografia institucionais: fonte única em
+// https://github.com/raphateixeira/.github/blob/main/assets/rtx-palette.scss
+// (baixada para rtx-palette.scss pelo workflow de publish a cada build).
+@import "rtx-palette";
+
+/*-- scss:rules --*/
+
+// --- Grid de animações (mesmo padrão visual da Coleção TikZ) ---
+.figura-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.figura-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+}
+
+.figura-preview {
+    background: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 160px;
+    padding: 0.75rem;
+    border-bottom: 1px solid #eee;
+
+    img { max-width: 100%; max-height: 260px; }
+}
+
+.figura-pendente {
+    font-size: 0.85em;
+    color: #999;
+    text-align: center;
+    padding: 1rem;
+}
+
+.figura-body {
+    padding: 0.9rem 1rem;
+
+    h3 { font-size: 1.05em; color: $cor-primaria; margin: 0 0 0.3rem; }
+    p  { font-size: 0.9em; color: #555; margin: 0 0 0.5rem; }
+}
+
+.figura-tags {
+    margin-bottom: 0.6rem;
+}
+
+.figura-tag {
+    display: inline-block;
+    font-size: 0.72em;
+    background: lighten($cor-primaria, 55%);
+    color: $cor-primaria;
+    border-radius: 999px;
+    padding: 0.15em 0.7em;
+    margin: 0 0.25em 0.25em 0;
+}
+
+.figura-downloads {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 0.5rem;
+}
+
+.figura-download {
+    font-size: 0.8em;
+    border: 1px solid $cor-primaria;
+    color: $cor-primaria !important;
+    border-radius: 5px;
+    padding: 0.2em 0.6em;
+    text-decoration: none !important;
+
+    &:hover { background: $cor-primaria; color: #fff !important; }
+}
