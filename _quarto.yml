@@ -5,6 +5,8 @@ project:
     - index.qmd
   resources:
     - "*.gif"
+    - "*.py"
+    - "VideosMetodosNumericos/*.mp4"
 
 website:
   title: "Coleção Manim"

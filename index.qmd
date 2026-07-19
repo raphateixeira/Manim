@@ -46,6 +46,66 @@ Cada card mostra a animação já renderizada e o script Python que a gera.
 </div>
 ```
 
+## Cálculo Numérico — Zeros de Funções {#zeros-de-funcoes}
+
+Animações produzidas para a disciplina de [Cálculo Numérico](https://raphateixeira.github.io/MetodosNumericos/), ilustrando os métodos iterativos de busca de raízes das Aulas 2 e 3 (métodos intervalares e métodos abertos).
+
+```{=html}
+<div class="figura-grid">
+
+<div class="figura-card">
+  <div class="figura-preview"><video src="VideosMetodosNumericos/Bisseccao.mp4" controls preload="metadata"></video></div>
+  <div class="figura-body">
+    <h3>Método da Bisseção</h3>
+    <p>Confinamento da raiz de f(x) = e^-x - sen(x) por bisseções sucessivas do intervalo (raiz ≈ 0,5885).</p>
+    <div class="figura-tags"><span class="figura-tag">calculo-numerico</span><span class="figura-tag">zeros-de-funcoes</span><span class="figura-tag">bissecao</span></div>
+    <div class="figura-downloads"><a class="figura-download" href="VideosMetodosNumericos/Bisseccao.mp4" download>MP4</a><a class="figura-download" href="SimulBisseccao.py" download>.py</a></div>
+  </div>
+</div>
+
+<div class="figura-card">
+  <div class="figura-preview"><video src="VideosMetodosNumericos/FalsaPosicao.mp4" controls preload="metadata"></video></div>
+  <div class="figura-body">
+    <h3>Método da Falsa Posição</h3>
+    <p>Interseção da corda com o eixo x para f(x) = ln(x) + x - 2 (raiz ≈ 1,5571), em comparação à bisseção.</p>
+    <div class="figura-tags"><span class="figura-tag">calculo-numerico</span><span class="figura-tag">zeros-de-funcoes</span><span class="figura-tag">falsa-posicao</span></div>
+    <div class="figura-downloads"><a class="figura-download" href="VideosMetodosNumericos/FalsaPosicao.mp4" download>MP4</a><a class="figura-download" href="SimulFalsaPosicao.py" download>.py</a></div>
+  </div>
+</div>
+
+<div class="figura-card">
+  <div class="figura-preview"><video src="VideosMetodosNumericos/NewtonRaphson.mp4" controls preload="metadata"></video></div>
+  <div class="figura-body">
+    <h3>Método de Newton-Raphson</h3>
+    <p>Aproximação por reta tangente para f(x) = x³ - 2x - 5 (raiz ≈ 2,0946), com convergência quadrática.</p>
+    <div class="figura-tags"><span class="figura-tag">calculo-numerico</span><span class="figura-tag">zeros-de-funcoes</span><span class="figura-tag">newton-raphson</span></div>
+    <div class="figura-downloads"><a class="figura-download" href="VideosMetodosNumericos/NewtonRaphson.mp4" download>MP4</a><a class="figura-download" href="SimulNewton.py" download>.py</a></div>
+  </div>
+</div>
+
+<div class="figura-card">
+  <div class="figura-preview"><video src="VideosMetodosNumericos/Secante.mp4" controls preload="metadata"></video></div>
+  <div class="figura-body">
+    <h3>Método da Secante</h3>
+    <p>Aproximação da derivada por diferença finita entre iterações para f(x) = cos(x) - x (raiz ≈ 0,7391).</p>
+    <div class="figura-tags"><span class="figura-tag">calculo-numerico</span><span class="figura-tag">zeros-de-funcoes</span><span class="figura-tag">secante</span></div>
+    <div class="figura-downloads"><a class="figura-download" href="VideosMetodosNumericos/Secante.mp4" download>MP4</a><a class="figura-download" href="SimulSecante.py" download>.py</a></div>
+  </div>
+</div>
+
+<div class="figura-card">
+  <div class="figura-preview"><video src="VideosMetodosNumericos/PontoFixo.mp4" controls preload="metadata"></video></div>
+  <div class="figura-body">
+    <h3>Método do Ponto Fixo</h3>
+    <p>Diagrama de teia (cobweb) da iteração x = e^-x (raiz ≈ 0,5671).</p>
+    <div class="figura-tags"><span class="figura-tag">calculo-numerico</span><span class="figura-tag">zeros-de-funcoes</span><span class="figura-tag">ponto-fixo</span></div>
+    <div class="figura-downloads"><a class="figura-download" href="VideosMetodosNumericos/PontoFixo.mp4" download>MP4</a><a class="figura-download" href="SimulPontoFixo.py" download>.py</a></div>
+  </div>
+</div>
+
+</div>
+```
+
 ## Eletrônica de Potência e Circuitos
 
 ```{=html}
