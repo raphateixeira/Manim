@@ -16,5 +16,5 @@ website:
 
 format:
   html:
-    theme: [cosmo, TemaModelo.scss]
+    theme: [cosmo, TemaRTx.scss]
     lang: pt-BR
