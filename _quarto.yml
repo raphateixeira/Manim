@@ -4,9 +4,9 @@ project:
   render:
     - index.qmd
   resources:
-    - "*.gif"
-    - "*.py"
-    - "VideosMetodosNumericos/*.mp4"
+    - "*/*.gif"
+    - "*/*.py"
+    - "*/*.mp4"
 
 website:
   title: "Coleção Manim"
