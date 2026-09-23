@@ -4,6 +4,8 @@ subtitle: "Animações matemáticas/didáticas de sistemas dinâmicos"
 author: "Prof. Dr. Raphael Teixeira"
 ---
 
+[⬅ Site principal](https://raphateixeira.github.io)
+
 Coleção de animações produzidas com [Manim](https://www.manim.community/)
 para uso didático em disciplinas de sistemas dinâmicos, controle e circuitos.
 Cada card mostra a animação já renderizada e o script Python que a gera.
