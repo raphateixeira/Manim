@@ -1,8 +1,11 @@
 media/
 __pycache__/
-docs/
 .quarto/
 
 /.quarto/
 **/*.quarto_ipynb
 .claude/
+/_site/
+
+# Tema compartilhado: baixado de raphateixeira/.github no build (ver GitRTx/atualizar-tema.sh)
+/TemaRTx.scss
